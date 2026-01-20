@@ -1,0 +1,4 @@
+client_id,nom,prenom,email,ville,segment,created_at,updated_at
+3,Bernard,Pierre,pierre.bernard@email.com,Marseille,Bronze,2025-12-31 00:24:36.060478,2025-12-31 00:24:36.060478
+1,Dupont,Jean,jean.dupont@email.com,Lyon,Gold,2025-12-31 00:24:36.060478,2025-12-31 22:33:17.195336
+2,Martin,Marie,marie.martin@email.com,Lyon,Platinum,2025-12-31 00:24:36.060478,2025-12-31 22:33:25.180888

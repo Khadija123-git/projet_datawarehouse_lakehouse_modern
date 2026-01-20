@@ -1,0 +1,4 @@
+produit_id,nom_produit,categorie,prix_unitaire,cout_achat,created_at,updated_at
+1,Laptop HP,Informatique,899.99,650.00,2025-12-31 00:24:44.347346,2025-12-31 00:24:44.347346
+2,Souris Logitech,Informatique,29.99,15.00,2025-12-31 00:24:44.347346,2025-12-31 00:24:44.347346
+3,Clavier Mécanique,Informatique,149.99,80.00,2025-12-31 00:24:44.347346,2025-12-31 00:24:44.347346
